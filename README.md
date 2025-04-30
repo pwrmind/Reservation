@@ -1,7 +1,7 @@
 # Resource Reservation System
 
 ## Overview
-This is a .NET 8.0 web application that implements a resource reservation system. The system allows users to manage and reserve various types of resources, track requests, and receive notifications about resource availability and reservation status.
+This is a web application that implements a resource reservation system. The system allows users to manage and reserve various types of resources, track requests, and receive notifications about resource availability and reservation status.
 
 ```mermaid
 sequenceDiagram
