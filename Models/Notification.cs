@@ -27,5 +27,10 @@ namespace Reservation
             Message = message;
             RecipientId = recipientId;
         }
+
+        public void Send()
+        {
+            Console.WriteLine("...Send...");
+        }
     }
 }
